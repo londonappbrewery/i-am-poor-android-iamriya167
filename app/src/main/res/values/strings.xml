@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name" translatable="false">I_Am_Poor</string>
+    <string name="title" translatable="false">I am Poor</string>
+    <string name="todo">TODO</string>
+
+
 </resources>
